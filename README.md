@@ -9,7 +9,7 @@ The raw data sets Random30, Random50, Random100, Similar10, Similar30 and Simila
 
 ### RotationNet:
 
-For our evaluation we used RotationNet. It can be downloaded via:
+For our evaluation we used RotationNet. It can be downloaded via:  
 https://github.com/kanezaki/rotationnet
 
 
