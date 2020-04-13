@@ -18,7 +18,7 @@ https://github.com/kanezaki/rotationnet
 
 The images of the physical objects used for evaluation can be downloaded via:
 
-https://gpstd.s3.eu-central-1.amazonaws.com/Physical_images/Random30.zip
+https://gpstd.s3.eu-central-1.amazonaws.com/Physical_images/Random30.zip \n
 https://gpstd.s3.eu-central-1.amazonaws.com/Physical_images/Similar50.zip
 
 For some objects, 3D printing problems have been encountered, so photos of these objects are not yet available. Currently the SLS printers cannot be used due to the Corona crisis. Therefore the missing objects will be printed and photographed as soon as this is possible again.
