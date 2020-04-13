@@ -17,6 +17,7 @@ https://github.com/kanezaki/rotationnet
 ### Physical images of 3D-printed objects:
 
 The images of the physical objects used for evaluation can be downloaded via:
+
 https://gpstd.s3.eu-central-1.amazonaws.com/Physical_images/Random30.zip
 https://gpstd.s3.eu-central-1.amazonaws.com/Physical_images/Similar50.zip
 
