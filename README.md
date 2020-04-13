@@ -23,6 +23,7 @@ https://gpstd.s3.eu-central-1.amazonaws.com/Physical_images/Similar50.zip
 For some objects, 3D printing problems have been encountered, so photos of these objects are not yet available. Currently the SLS printers cannot be used due to the Corona crisis. Therefore the missing objects will be printed and photographed as soon as this is possible again.
 
 For Similar50 two objects are missing: Pot6, Pot7
+
 For Random30 two objects are missing: cupcakemakplunger_1cm, heptagonal_1_5_cm
 
 Furthermore, due to the Corona crisis we did not have access to professional camera equipment, so the pictures of the smaller objects are very blurred. These will also be replaced as soon as possible.
